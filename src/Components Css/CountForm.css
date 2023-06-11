@@ -1,0 +1,7 @@
+#formCount{
+    display: flex;
+    justify-content: end;
+    top: -10rem;
+    position: relative;
+    padding-right: 2rem;
+}
