@@ -1,0 +1,20 @@
+#burgerCardWrapper{
+    width: 60rem;
+    height: 11rem;
+    background-color: rgb(192 188 188);
+    margin: auto;
+    margin-top: 3rem;
+    box-shadow: 1px 1px 3px 1px grey;
+    border-radius: 3px;
+}
+#ingredient{
+    padding-left: 2rem;
+    padding-top: 0.5rem;
+}
+
+#burgerCardWrapper img{
+    height: 8rem;
+    width: 8rem;
+    object-fit: contain;
+    padding-left: 2rem;
+}

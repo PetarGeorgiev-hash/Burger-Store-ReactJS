@@ -1,0 +1,31 @@
+[
+    {
+      "id": 1,
+      "name": "Classic Burger",
+      "ingredient": "Beef patty, lettuce, tomato, onion",
+      "price": 9.99,
+      "image" : "https://images.eatthismuch.com/img/331330_dylpill21_acbc0262-ff8f-4a8e-b6d0-25486109a502.png"
+    },
+    {
+      "id": 2,
+      "name": "Cheeseburger",
+      "ingredient": "Beef patty, cheese, lettuce, tomato, onion",
+      "price": 10.99,
+      "image" : "https://static.wixstatic.com/media/f1892b_1be13097a9184b09b08687d1cf136fcf~mv2.jpg/v1/fill/w_594,h_462,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/epic-burger-chicagos-best-burger_0004_ed.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Chicken Burger",
+      "ingredient": "Grilled chicken, lettuce, tomato, mayo",
+      "price": 8.99,
+      "image": "https://52perfectdays.com/wp-content/uploads/2011/11/amirali-mirhashemian-d-yAWqj-DRg-unsplash-1024x683.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Veggie Burger",
+      "ingredient": "Vegetable patty, lettuce, tomato, onion, mayo",
+      "price": 7.99,
+      "image": "https://www.columbusmonthly.com/gcdn/authoring/2019/04/10/NCOM/ghows-OH-34f45215-458b-4c2a-a1f4-5b6e2e002b92-f149e72f.jpeg?width=1200&disable=upscale&format=pjpg&auto=webp"
+    }
+  ]
+  
