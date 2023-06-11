@@ -1,0 +1,14 @@
+#descWrapper{
+    position: absolute;
+    top: 36vh;
+    display: flex;
+    flex-direction: column;
+    background-color: brown;
+    align-items: center;
+    justify-content: center;
+    left: 50%;
+    transform: translate(-50%, 0%);
+    border-radius: 1rem;
+    padding: 1rem;
+    opacity: 0.92;
+}
