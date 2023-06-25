@@ -1,7 +1,4 @@
 #cart{
+    top: 6rem;
     position: relative;
-    top: -5rem;
-    display: flex;
-    margin-left: auto;
-    margin-right: 5rem;
 }

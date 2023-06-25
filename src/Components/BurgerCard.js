@@ -1,5 +1,4 @@
 import "../Components Css/BurgerCard.css";
-import AddToCart from "./AddToCart";
 import CountForm from "./CountForm";
 
 const BurgerCard = (props) => {
@@ -7,9 +6,8 @@ const BurgerCard = (props) => {
     <div id="burgerCardWrapper">
       <div id="name">{props.name}</div>
       <div id="ingredient">{props.ingredient}</div>
-      <img src={props.image}></img>
-      <CountForm></CountForm>
-      <AddToCart></AddToCart>
+      <img src={props.image} alt="burger type"></img>
+      <CountForm foodInfo={props}></CountForm>
     </div>
   );
 };
