@@ -30,7 +30,7 @@ function CountForm(props) {
     >
       <div id="wrapper">
         <button onClick={handleDecrement}>-</button>
-        <input type="nubmer" value={count}></input>
+        <input type="nubmer" value={count} min={1}></input>
         <button onClick={handleIncrement}>+</button>
       </div>
       <AddToCart burgerInfo={props} countInfo={count}></AddToCart>

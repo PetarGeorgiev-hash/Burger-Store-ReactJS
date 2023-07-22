@@ -4,9 +4,22 @@
  display: flex;
  align-items: center;
  background-color: brown;
+ justify-content: space-between;
 }
 #name{
     padding-left: 2rem;
     font-size: larger;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#cartLogo:hover{
+    cursor: pointer;
+}
+
+#cartBurgerCount{
+    position: relative;
+    bottom: 1rem;
+    right: 1rem;
+    border: 2rem;
+    border-radius: 50%;
 }
